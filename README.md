@@ -1,6 +1,6 @@
-# 코딩테스트 준비 (백준 풀이)
+# Prepare Coding Test (Solve Backjoon)
 
-## + 언어 : C++
-## + 스터디 시간 : 매주 화요일 21:00~ (1시간 ~ 1시간 반 진행)
-## + 스터디 문제 : 골드 이상 문제 1~2개 
-## + 스터디 기간 : 2021.08. 시작
+## + Language : C++
+## + Study time : every Sundy 21:00~ (1 hour ~ more)
+## + Study problem : 1 or 2 gold level or higer problem  
+## + Study term : start 2021.08.
